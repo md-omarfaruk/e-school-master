@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.header-section{
+    background: #F0FFF0;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+.header-btn-one{
+    background: #21B573;
+    height: 43px;
+    width: 104px;
+    border: none;
+    border-radius: 33px;
+    margin-left: 15px;
+    padding: 12px, 28px, 12px, 28px;
+}
+.banner-p-text{
+    color: #FD511A;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.header-btn-two{
+    background: #21B573;
+    height: 43px;
+    width: 153px;
+    border: none;
+    border-radius: 33px;
+    padding: 12px, 36px, 12px, 36px;
+    margin-bottom: 30px;
+
+}
+.header-banner{
+    padding-bottom: 50px;
+}
+.banner-h-text{
+    color: #21B573;
+    font-weight: bold;
+}
+.banner-image{
+    width: 100%;
+}
+.card-image{
+    width: 66px;
+    height: 85px;
+    margin: 20px auto;
+}
+.first-one{
+    border: none;
+    border-radius: 10px;
+    background: #F8FFFB;
+}
+.first-one:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+}
+.card-second-image{
+    padding: 15px;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+.card-btn{
+    height: 35px;
+    width: 137px;
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
+    padding: 8px, 28px, 8px, 28px;
+
+}
+i{
+    margin: auto 10px;
+}
+.online-courses{
+    margin-bottom: 50px;
+}
+.testimonial-image{
+    width: 200px;
+    height: 200px;
+}
+.testimonial-text{
+    color: black;
+}
+.Course{
+    font-size: 25px;
+    font-weight: 700;
+}
+.footer-section{
+    color: white;
+    background: #282531;
+}
+.list-group-item{
+    color: white;
+    border: none;
+    background-color: inherit;
+}
+.list-group-item a{
+    color: white;
+    text-decoration: none;
+}
